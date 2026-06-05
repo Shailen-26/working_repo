@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="cpp_mmap_file.vcxproj" Id="7e445e29-4525-4a87-bcb0-a9fde98c3e97" />
+</Solution>
